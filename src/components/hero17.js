@@ -218,44 +218,44 @@ const Hero17 = (props) => {
 
 Hero17.defaultProps = {
   image3Src:
-    'http://www.cwladis.com/math101/venndiagramBblue.gif',
+    'https://www.cwladis.com/math101/venndiagramBblue.gif',
   image8Alt: 'Hero Image',
   image2Src:
-  'http://www.cwladis.com/math101/venndiagramAyellow.gif',
+  'https://www.cwladis.com/math101/venndiagramAyellow.gif',
   image6Alt: 'Hero Image',
   image11Src:
-    'http://www.cwladis.com/clip_image025.gif',
+    'https://www.cwladis.com/clip_image025.gif',
   image5Alt: 'Hero Image',
   image1Alt: 'Illustration of sets',
   image7Src:
-    'http://www.cwladis.com/clip_image016.gif',
+    'https://www.cwladis.com/clip_image016.gif',
   image7Alt: 'Hero Image',
   image12Alt: 'Hero Image',
   image2Alt: 'Interactive quizzes',
   image6Src:
-    'http://www.cwladis.com/math100/venndiagramAintersectBred.gif',
+    'https://www.cwladis.com/math100/venndiagramAintersectBred.gif',
   image12Src:
-    'http://www.cwladis.com/math100/venndiagramAyellow.gif',
+    'https://www.cwladis.com/math100/venndiagramAyellow.gif',
   image3Alt: 'Engaging exercises',
   image9Src:
-    'http://www.cwladis.com/clip_image021.gif',
+    'https://www.cwladis.com/clip_image021.gif',
   image11Alt: 'Hero Image',
   action2: undefined,
   action1: undefined,
-  image8Src: 'http://www.cwladis.com/clip_image020.gif',
+  image8Src: 'https://www.cwladis.com/clip_image020.gif',
   image5Src:
-    'http://www.cwladis.com/clip_image008.gif',
+    'https://www.cwladis.com/clip_image008.gif',
   image4Src:
-    'http://www.cwladis.com/math100/venndiagramAyellowBblue.gif',
+    'https://www.cwladis.com/math100/venndiagramAyellowBblue.gif',
   image10Alt: 'Hero Image',
   image4Alt: 'Hero Image',
   heading1: undefined,
   content1: undefined,
   image10Src:
-    'http://www.cwladis.com/clip_image024.gif',
+    'https://www.cwladis.com/clip_image024.gif',
   image9Alt: 'Hero Image',
   image1Src:
-    'http://www.cwladis.com/clip_image007.gif',
+    'https://www.cwladis.com/clip_image007.gif',
 }
 
 
